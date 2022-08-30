@@ -1,4 +1,6 @@
-# AoE2-Civbuilder
+# Juliano Sott's AoE2-Civbuilder
+This is just a fork of the orignial project, for personal use.
+For the main project please visit:
 Hosted at https://krakenmeister.com/civbuilder
 
 If you want to host the project locally, note that there are a few absolute paths in server.js and createModFolder.sh. All of the necessary C++ files are already compiled, but if you want to recompile them, make sure to clone the submodules and run './modding/scripts/build.sh'.
